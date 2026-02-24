@@ -14,11 +14,11 @@
     </nav>
     <div class="background-image"></div>
     <div class="form-wrapper">
-      <h2> MOHITH</h2>
+      <h2> MOHITH 23JR1A05J3</h2>
       <form action="#">
         <div class="form-control">
           <input type="text" required />
-          <label>EmaillLLLLLL</label>
+          <label>EmaillLLLLLL 23jr1a05j3@gmail.com</label>
         </div>
         <div class="form-control">
           <input type="password" required />
